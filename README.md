@@ -28,12 +28,6 @@ I love experimenting with:
 - Exploring statistical models 📈  
 - Writing efficient and clean code 👨‍💻  
 
-## 🌐 Connect with Me
-
-Feel free to connect with me or check out my work:  
-- 🔗 [LinkedIn](www.linkedin.com/in/nityanshpant)  
-- ✉️ Email: [your-email@example.com](mailto:24mc3033@rgipt.ac.in)  
-- 🐦 Twitter: [@yourhandle](https://x.com/souleon2006)  
 
 ---
 
