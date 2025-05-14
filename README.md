@@ -26,7 +26,7 @@
 
 #### 👨‍💻 Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -37,7 +37,7 @@
 
 #### 📊 Data Science & ML
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -50,7 +50,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thynash&show_icons=true&theme=radical&count_private=true" />
   <br/>
 
@@ -58,7 +58,7 @@
 
 ### 🔗 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nityanshpant" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
