@@ -2,7 +2,11 @@
 <h3 align="center">🧠 Data-driven · 🤔 Curious by Nature · 🔄 Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&width=500&color=F72585&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+%7C+R+%7C+EDA+%7C+Streamlit+Explorer;Projects+that+Teach+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&width=500&color=F72585&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+%7C+R+%7C+EDA+%7C+Streamlit+Explorer;Projects+that+Teach+📚" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thynash&label=Profile+Views&color=0e75b6&style=flat" alt="thynash" />
 </p>
 
 ---
@@ -21,11 +25,9 @@
 💡 I love discovering hidden patterns, automating insight workflows, and creating neat visualizations that make data speak.
 
 ---
-
-### 🧰 Tech Stack
+### 💪 Tech Stack
 
 #### 👨‍💻 Languages & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -36,7 +38,6 @@
 </p>
 
 #### 📊 Data Science & ML
-
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -47,17 +48,21 @@
 
 ---
 
-
-### 📈 GitHub Stats
+### 🌀 GitHub Stats & Game Corner
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thynash&show_icons=true&theme=radical&count_private=true" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynash&layout=compact&theme=radical" />
+</p>
+
+#### 🎮 Mini Game Zone
+<p align="center">
+  <a href="https://thynash.github.io/cursor-chase/">🎮 Play: Cursor Chase (HTML5 Game)</a>
+</p>
 
 ---
 
 ### 🔗 Let's Connect
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nityanshpant" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
