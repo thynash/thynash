@@ -125,7 +125,6 @@
 ### 🔹 **Web & Database**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
@@ -150,7 +149,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thynash&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thynash&theme=tokyonight&background=00000000&hide_border=true" />
+  
 </div>
 
 ---
@@ -162,12 +161,6 @@
 </div>
 
 ---
-
-<!-- Hidden but functional welcome popup via animation above -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thynash/thynash/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <div align="center">
   <i>⚡ "The future belongs to those who learn quantum computing and build secure AI systems"</i>
