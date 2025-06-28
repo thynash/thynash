@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>💻</td>
-    <td><strong>M=Bs in Data Science</strong><br/>
+    <td><strong>Bs in Data Science</strong><br/>
         <em>Indian Institute of Technology (IIT) Madras</em><br/>
         <code>Batch: 2024–2028</code>
     </td>
