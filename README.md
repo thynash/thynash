@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>💻</td>
-    <td><strong>Bs in Data Science</strong><br/>
+    <td><strong>BS in Data Science</strong><br/>
         <em>Indian Institute of Technology (IIT) Madras</em><br/>
         <code>Batch: 2024–2028</code>
     </td>
@@ -53,21 +53,6 @@
 
 ### 🤖 **AI Intern** — *C-DOT, New Delhi*
 
-```
-🧠 Built internal AI solutions for automation
-📊 Created models for cybersecurity & traffic classification
-🛠️ Tools used: PyTorch, FastAPI, Kafka
-🗓️ June 2 – July 25
-```
-
-### 🌱 **AI Intern** — *Swecha, IIIT Hyderabad*
-
-```
-📉 Built NLP pipelines for social good
-🧠 Trained & evaluated sentiment + news classification models
-🔐 Contributed to civic tech & cybersecurity tools
-🗓️ June 27 – August 31
-```
 
 ---
 
@@ -102,54 +87,62 @@
 
 ### 🔹 **Languages**
 
-![Python](https://img.shields.io/badge/Python-9370DB?style=flat\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4682B4?style=flat\&logo=c%2B%2B\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9370DB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4682B4?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🔹 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat\&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logoColor=black)
 
 ### 🔹 **Quantum Computing**
 
-![PennyLane](https://img.shields.io/badge/PennyLane-9370DB?style=flat\&logo=python\&logoColor=white)
-![Cirq](https://img.shields.io/badge/Cirq-00BFFF?style=flat\&logo=google\&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat\&logo=qiskit\&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-9370DB?style=flat&logo=python&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-00BFFF?style=flat&logo=google&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
 
 ### 🔹 **Web & Database**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### 🔹 **Cybersecurity & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat\&logo=vim\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-800080?style=flat)
 
 ### 🔹 **Visualization & UI**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat\&logo=plotly\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thynash&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" />
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thynash&show_icons=true&theme=lavender&bg_color=00000000&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynash&layout=compact&theme=lavender&bg_color=00000000&hide_border=true" />
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thynash&theme=lavender&area=true&hide_border=true" />
 </div>
 
 ---
@@ -157,7 +150,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thynash&theme=algolia&margin-w=10&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thynash&theme=lavender&margin-w=10&no-frame=true&row=2&column=4" />
 </div>
 
 ---
